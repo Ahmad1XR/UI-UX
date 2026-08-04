@@ -1,64 +1,65 @@
-# UI-UX
 # University Student Task Manager
 
 A mobile UI/UX case study designed in Figma to help university students organize assignments, exams, deadlines, priorities, and reminders.
 
----
-
 ## Project Overview
 
-This project was designed to improve how university students manage their academic workload through a simple and intuitive mobile interface.
+The project focuses on creating a simple mobile experience that allows students to:
 
-The application allows students to:
-
-- View upcoming assignments and exams
+- View upcoming academic tasks
 - Track daily progress
-- Create new academic tasks
-- Organize deadlines using a calendar
-- Set priorities and reminders
+- Add assignments, exams, and projects
+- Set deadlines, priorities, and reminders
+- View tasks through a calendar
 - Manage profile and notification settings
-
----
 
 ## Screens
 
-- Home
-- Add Task
-- Task Details
-- Calendar
-- Profile & Settings
+### Home
 
----
+![Home](Screenshots/home.png)
+
+### Add Task
+
+![Add Task](Screenshots/add-task.png)
+
+### Task Details
+
+![Task Details](Screenshots/task-details.png)
+
+### Calendar
+
+![Calendar](Screenshots/calendar.png)
+
+### Profile & Settings
+
+![Profile and Settings](Screenshots/profile-settings.png)
 
 ## Design Process
 
-- Problem Definition
-- User Flow
-- UI Design
-- Interactive Prototype
-- Design Iterations
-
----
+- Defined the user problem and project goal
+- Created the user flow and screen structure
+- Designed five mobile screens
+- Built an interactive navigation prototype
+- Improved visual hierarchy, consistency, and action clarity through multiple iterations
 
 ## Tools
 
 - Figma
-- Auto Layout
-- Components
+- User Flows
+- UI Design
 - Interactive Prototyping
 
----
+## Case Study
 
-## Preview
+[View the complete PDF case study](University%20Student%20app%20Preview.pdf)
 
-See the complete case study inside:
+## Interactive Prototype
 
-**University Student Task Manager.pdf**
+[View the Figma prototype] ( https://www.figma.com/proto/7tpMQppM5r6w7TdkQ52ErF/University-Student-app?node-id=0-1&t=AjDwJMoxG3bsaEum-1 )
 
----
+## Designer
 
-## Author
+**Ahmad Karmoul**
 
-Ahmad Karmoul
-
-LinkedIn : https://www.linkedin.com/in/ahmad-karmoul-864384329/
+Junior UI/UX Designer with a background in Unity, XR, and interactive application development.
