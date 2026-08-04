@@ -21,11 +21,11 @@ The project focuses on creating a simple mobile experience that allows students 
 
 ### Add Task
 
-![Add Task](Screenshots/Add-New-Task.png)
+![Add Task](Screenshots/AddNewTask.png)
 
 ### Task Details
 
-![Task Details](Screenshots/Task-Details.png)
+![Task Details](Screenshots/TaskDetails.png)
 
 ### Calendar
 
