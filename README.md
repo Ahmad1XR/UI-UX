@@ -61,5 +61,4 @@ See the complete case study inside:
 
 Ahmad Karmoul
 
-LinkedIn:
-(ضع رابط LinkedIn هنا)
+LinkedIn : https://www.linkedin.com/in/ahmad-karmoul-864384329/
