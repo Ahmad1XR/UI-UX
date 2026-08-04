@@ -21,19 +21,19 @@ The project focuses on creating a simple mobile experience that allows students 
 
 ### Add Task
 
-![Add Task](Screenshots/add-task.png)
+![Add Task](Screenshots/Add-New-Task.png)
 
 ### Task Details
 
-![Task Details](Screenshots/task-details.png)
+![Task Details](Screenshots/Task-Details.png)
 
 ### Calendar
 
-![Calendar](Screenshots/calendar.png)
+![Calendar](Screenshots/Calendar.png)
 
 ### Profile & Settings
 
-![Profile and Settings](Screenshots/profile-settings.png)
+![Profile and Settings](Screenshots/Settings.png)
 
 ## Design Process
 
