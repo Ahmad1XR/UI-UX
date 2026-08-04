@@ -17,7 +17,7 @@ The project focuses on creating a simple mobile experience that allows students 
 
 ### Home
 
-![Home](Screenshots/home.png)
+![Home](Screenshots/Home.png)
 
 ### Add Task
 
