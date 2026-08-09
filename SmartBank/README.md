@@ -58,7 +58,7 @@ The complete visual case study is available inside the `Case-Study` folder.
 
 Figma Prototype:
 
-[Add your Figma prototype link here]
+https://www.figma.com/proto/I02lOwhNWymfdksUB3mTtE/Smartbank-app?node-id=60-686&t=Hc53iTolJ55Mh5C3-1
 
 ## Project Type
 
