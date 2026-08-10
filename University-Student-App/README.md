@@ -12,7 +12,7 @@ A mobile banking concept designed to simplify everyday financial tasks such as m
 
 The project includes multiple end-to-end user flows and an interactive prototype.
 
-[View SmartBank Project](./SmartBank)
+[View SmartBank Project](./Smartbank)
 
 ### University Student Organizer — UI/UX Project
 
