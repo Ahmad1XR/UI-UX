@@ -1,65 +1,40 @@
-# University Student Task Manager
+# UI/UX Projects
 
-A mobile UI/UX case study designed in Figma to help university students organize assignments, exams, deadlines, priorities, and reminders.
+A collection of my UI/UX design projects created in Figma, focused on building clear, intuitive, and interactive digital experiences.
 
-## Project Overview
+This repository includes mobile app concepts, user flows, interface design, case studies, and interactive prototypes.
 
-The project focuses on creating a simple mobile experience that allows students to:
+## Projects
 
-- View upcoming academic tasks
-- Track daily progress
-- Add assignments, exams, and projects
-- Set deadlines, priorities, and reminders
-- View tasks through a calendar
-- Manage profile and notification settings
+### SmartBank — Mobile Banking UI/UX Case Study
 
-## Screens
+A mobile banking concept designed to simplify everyday financial tasks such as money transfers, bill payments, card management, transaction tracking, notifications, and account settings.
 
-### Home
+The project includes multiple end-to-end user flows and an interactive prototype.
 
-![Home](Screenshots/Home.png)
+[View SmartBank Project](./SmartBank)
 
-### Add Task
+### University Student Organizer — UI/UX Project
 
-![Add Task](Screenshots/Add%20New%20Task.png)
+A mobile app concept designed to help university students organize courses, exams, tasks, deadlines, and academic activities in one place.
 
-### Task Details
+This project focuses on simple navigation, academic organization, and clear mobile interface design.
 
-![Task Details](Screenshots/Task%20Details.png)
+[View University Student Organizer](./University-Student-App)
 
-### Calendar
-
-![Calendar](Screenshots/Calendar.png)
-
-### Profile & Settings
-
-![Profile and Settings](Screenshots/Settings.png)
-
-## Design Process
-
-- Defined the user problem and project goal
-- Created the user flow and screen structure
-- Designed five mobile screens
-- Built an interactive navigation prototype
-- Improved visual hierarchy, consistency, and action clarity through multiple iterations
-
-## Tools
+## Tools & Skills
 
 - Figma
-- User Flows
-- UI Design
+- Auto Layout
 - Interactive Prototyping
+- User Flows
+- Wireframing
+- Mobile UI Design
+- UX Design
+- Visual Design
 
-## Case Study
+## About This Repository
 
-[View the complete PDF case study](University%20Student%20app%20Preview.pdf)
+These projects are part of my UI/UX portfolio and learning journey.
 
-## Interactive Prototype
-
-[View the Figma prototype] ( https://www.figma.com/proto/7tpMQppM5r6w7TdkQ52ErF/University-Student-app?node-id=0-1&t=AjDwJMoxG3bsaEum-1 )
-
-## Designer
-
-**Ahmad Karmoul**
-
-Junior UI/UX Designer with a background in Unity, XR, and interactive application development.
+The University Student Organizer represents an earlier project focused on building foundational UI/UX and Figma skills, while SmartBank is a more advanced project featuring larger user flows, interaction design, and a complete mobile banking case study.
