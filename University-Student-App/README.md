@@ -1,40 +1,46 @@
-# UI/UX Projects
+# University Student Organizer — UI/UX Project
 
-A collection of my UI/UX design projects created in Figma, focused on building clear, intuitive, and interactive digital experiences.
+University Student Organizer is a personal mobile UI/UX concept designed in Figma to help university students organize their academic activities through a simple and clear interface.
 
-This repository includes mobile app concepts, user flows, interface design, case studies, and interactive prototypes.
+This was my first UI/UX project and focused on practicing mobile interface design, navigation, visual hierarchy, and interactive prototyping.
 
-## Projects
+## Project Goals
 
-### SmartBank — Mobile Banking UI/UX Case Study
+- Create a simple mobile interface for university students
+- Organize academic information clearly
+- Practice user-friendly navigation
+- Apply fundamental UI/UX principles in Figma
 
-A mobile banking concept designed to simplify everyday financial tasks such as money transfers, bill payments, card management, transaction tracking, notifications, and account settings.
+## Project Screens
 
-The project includes multiple end-to-end user flows and an interactive prototype.
+The project includes five main mobile screens designed around student organization and academic activity management.
 
-[View SmartBank Project](./Smartbank)
+## Design Focus
 
-### University Student Organizer — UI/UX Project
+- Simple navigation
+- Clear visual hierarchy
+- Consistent mobile interface
+- Easy access to important academic information
+- Interactive navigation between key screens
 
-A mobile app concept designed to help university students organize courses, exams, tasks, deadlines, and academic activities in one place.
-
-This project focuses on simple navigation, academic organization, and clear mobile interface design.
-
-[View University Student Organizer](./University-Student-App)
-
-## Tools & Skills
+## Tools
 
 - Figma
 - Auto Layout
 - Interactive Prototyping
-- User Flows
-- Wireframing
 - Mobile UI Design
-- UX Design
-- Visual Design
+- User Flows
 
-## About This Repository
+## Screenshots
 
-These projects are part of my UI/UX portfolio and learning journey.
+The five project screens are available inside the `Screenshots` folder.
 
-The University Student Organizer represents an earlier project focused on building foundational UI/UX and Figma skills, while SmartBank is a more advanced project featuring larger user flows, interaction design, and a complete mobile banking case study.
+## Interactive Prototype
+
+Figma Prototype:
+
+https://www.figma.com/proto/7tpMQppM5r6w7TdkQ52ErF/University-Student-app?node-id=0-1&t=fnriTyZd15HJnQid-1
+
+## Project Type
+
+Personal UI/UX learning and portfolio project.
