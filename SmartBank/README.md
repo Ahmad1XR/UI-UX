@@ -7,7 +7,7 @@ The project focuses on creating a simple, clear, and intuitive experience for ev
 ## Project Goals
 
 - Create a clear and simple mobile banking experience
-- Design complete end-to-end user flows
+- Design key user flows
 - Maintain visual consistency across screens
 - Provide clear confirmation and feedback for financial actions
 
